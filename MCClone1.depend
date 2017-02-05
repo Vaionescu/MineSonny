@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1486304319 source:z:\mcclone1\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<cstdio>
+	<cstdlib>
+	"button.h"
+
+1486303928 source:z:\mcclone1\button.cpp
+	"button.h"
+
+1486303145 z:\mcclone1\button.h
+	<cstring>
+	<SDL.h>
+	<SDL_ttf.h>
+
